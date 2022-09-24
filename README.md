@@ -40,3 +40,8 @@ In this code, user will enter an input number "n". Then it will get "n" numbers 
 ### Taylor Series (seriFp)
 This code will get a natural number and a floating point number from the user. Then it will calculate and show the Taylor Series computation result assosiated with the inputs.
 
+## Image Brightener
+This code will brighten the image that is in the same folder as the code by "n". "n" is the user input and can be a negative number.
+
+## Assembler & Disassembler
+This project was one of the hardest projects I have ever done for a course. First, an assembler was implemented in python. Then the assembler and disassembler was implemented in assembly. Those days of debugging assembly thousends of lines of codes was like drinking hot tea in the hell. 
