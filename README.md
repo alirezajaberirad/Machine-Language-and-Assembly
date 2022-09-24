@@ -27,3 +27,8 @@ This code counts the number of bits that are 1 in the memory from the address th
 
 ## Calculator
 This project is a simple calculator that can execute 4 main mathematical operations. The multiplication and division is considered that is not available, so it is done by repetitive series of addition and subtraction. Also, you can continue the calculation for as long as you want by entering new lines of mathematical expressions, one after another until you or the computer gets tired.
+
+## Quicksort & Binary Search
+The codes are implemented by stack based functions.
+
+##
