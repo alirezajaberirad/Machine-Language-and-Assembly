@@ -31,4 +31,12 @@ This project is a simple calculator that can execute 4 main mathematical operati
 ## Quicksort & Binary Search
 The codes are implemented by stack based functions.
 
-##
+## Floating-point Arithmetics
+This part includes two exercises. The main focus of this assignment was on floating-point arithmetics.
+
+### Minimum Difference (minDifFp)
+In this code, user will enter an input number "n". Then it will get "n" numbers from the user and finally will print the two numbers that had the least difference.
+
+### Taylor Series (seriFp)
+This code will get a natural number and a floating point number from the user. Then it will calculate and show the Taylor Series computation result assosiated with the inputs.
+
