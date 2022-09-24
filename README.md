@@ -44,4 +44,7 @@ This code will get a natural number and a floating point number from the user. T
 This code will brighten the image that is in the same folder as the code by "n". "n" is the user input and can be a negative number.
 
 ## Assembler & Disassembler
-This project was one of the hardest projects I have ever done for a course. First, an assembler was implemented in python. Then the assembler and disassembler was implemented in assembly. Those days of debugging assembly thousends of lines of codes was like drinking hot tea in the hell. 
+This project was one of the hardest projects I have ever done for a course. First, an assembler was implemented in python. Then the assembler and disassembler was implemented in assembly. Those days of debugging assembly thousends of lines of codes was like drinking hot tea in the hell.
+
+## Quizzes
+The questions that were given were sometimes (maybe often, I can't remember) harder than the exercises. You can guess each of them by their name. I will not give more explanation, otherwise we will end with a novel about assembly codes:)
