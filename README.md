@@ -24,3 +24,6 @@ This code will reverse the orders of the bits of the number in rdx:rax then will
 In this piece of code, the number of bits that are 1 in rax register will be counted and stored in bl register.
 ### Counting 1 Bits++ (countOneM)
 This code counts the number of bits that are 1 in the memory from the address that is stored in rsi register to the address that is stored in rdi register. Ultimately, the result will be stored in rax register.
+
+## Calculator
+This project is a simple calculator that can execute 4 main mathematical operations. The multiplication and division is considered that is not available, so it is done by repetitive series of addition and subtraction. Also, you can continue the calculation for as long as you want by entering new lines of mathematical expressions, one after another until you or the computer gets tired.
